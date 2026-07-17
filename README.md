@@ -6,3 +6,6 @@ This line verifies that Doctronic can detect and index a fresh Skin Cancer Detec
 
 ##Pistons
 This line is because I like Cade Cunningham
+
+##DETROIT
+I LOVE THE CITY OF DETROIT
