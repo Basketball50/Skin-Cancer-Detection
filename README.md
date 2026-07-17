@@ -9,3 +9,5 @@ This line is because I like Cade Cunningham
 
 ##DETROIT
 I LOVE THE CITY OF DETROIT
+
+KANSAS IS AWESOME
