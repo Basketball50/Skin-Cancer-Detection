@@ -11,3 +11,5 @@ This line is because I like Cade Cunningham
 I LOVE THE CITY OF DETROIT
 
 KANSAS IS AWESOME
+
+SO IS OKLAHOMA
